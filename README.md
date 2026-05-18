@@ -135,7 +135,7 @@ Through this project, I improved my understanding of:
 Sakshi Singh
 
 GitHub:
-https://github.com/anupamsingh54041-droid
+https://github.com/anupamsingh54041-droid/CodeAlpha_ChatBot
 
 ---
 
